@@ -5,8 +5,8 @@
 // @description  Sends chill, human-like messages about Plume in Discord chats to make it look like a casual user chatting
 // @author       Kyaa-A
 // @match        https://discord.com/channels/*
-// @updateURL    https://raw.githubusercontent.com/Kyaa-A/Discord-Auto-Chat/main/script.js
-// @downloadURL  https://raw.githubusercontent.com/Kyaa-A/Discord-Auto-Chat/main/script.js
+// @updateURL    https://raw.githubusercontent.com/Kyaa-A/Discord-Auto-Chat/main/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/Kyaa-A/Discord-Auto-Chat/main/script.user.js
 // @grant        none
 // ==/UserScript==
 

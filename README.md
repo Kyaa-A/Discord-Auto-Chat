@@ -35,7 +35,7 @@ Example message:
 1. Install Tampermonkey if you haven’t already
 2. Click the link below to install the script:
 
-👉 **[Install the script via GitHub](https://raw.githubusercontent.com/Kyaa-A/Discord-Auto-Chat/main/script.js)**
+👉 **[Install the script via GitHub](https://raw.githubusercontent.com/Kyaa-A/Discord-Auto-Chat/main/script.user.js)**
 
 3. Join a server or channel on Discord and let it do its thing (wait 5 seconds on page load)
 
