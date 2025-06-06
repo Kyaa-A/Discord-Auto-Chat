@@ -46,8 +46,8 @@ Example message:
 You can change the message frequency or customize the message list in the script:
 
 ```js
-const MIN_INTERVAL = 120_000; // 2 minutes
-const MAX_INTERVAL = 300_000; // 5 minutes
+const MIN_INTERVAL = 60_000; // 1 minutes
+const MAX_INTERVAL = 90_000; // 1.5 minutes
 
 const MESSAGES = [
   "yo plume’s actually kinda good lol",
